@@ -1,1 +1,7 @@
-Assignment implemented for the **CS-PCC-225(Operating Systems Lab)**.
+## 💥 Output
+
+Writer's Priority :-
+![](images/writer.png)
+
+Reader's Priority :-
+![](images/reader.png)
